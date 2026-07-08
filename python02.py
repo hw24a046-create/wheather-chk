@@ -45,3 +45,5 @@ except Exception as e:
     print(f"[エラー内容] {e}")
     print("=========================================")
     sys.exit(1)
+
+# test
